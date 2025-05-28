@@ -61,12 +61,12 @@ Large community and support
 Cross-platform potential      
 
 ## cons
-Poor performance with CPU-heavy tasks
-Single-threaded limitations
-Callback hell and async complexity 
-Varying quality of libraries
-Security risks from dependencies
-Rapid ecosystem changes
+Poor performance with CPU-heavy tasks,
+Single-threaded limitations,
+Callback hell and async complexity,
+Varying quality of libraries,
+Security risks from dependencies,
+Rapid ecosystem changes,
 Lack of built-in type safety
 
 ## below are explanation on these following aspects of node.js
